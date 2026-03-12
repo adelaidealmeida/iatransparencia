@@ -1,0 +1,6 @@
+flask
+redis
+sentence-transformers
+pypdf
+numpy
+requests
