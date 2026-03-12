@@ -1,4 +1,4 @@
-# HyPA-RAG — Transparência Inteligente
+# Transparência Inteligente
 
 Sistema de Recuperação Aumentada por Geração (RAG) híbrido para consulta inteligente de atos normativos do Poder Executivo do Estado do Pará. Desenvolvido como parte da pesquisa submetida ao **CSBC 2026**.
 
